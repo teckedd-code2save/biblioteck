@@ -40,4 +40,4 @@ The "Holy Grail"—connecting the brain to the workbench.
 *   **Low-Resource Focus:** Specialized support for Twi ASR, bridging the gap for under-represented languages.
 
 ---
-*Created with ❤️
+*Created with ❤️ by teckedd*
