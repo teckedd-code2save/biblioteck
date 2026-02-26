@@ -33,11 +33,11 @@ The "Holy Grail"—connecting the brain to the workbench.
 
 ---
 
-## 🌟 Key Highlights for Recruiters
+## 🌟 Key Highlights
 *   **Security-First:** Implemented strict Docker isolation for AI-generated code.
 *   **Optimized Performance:** Reduced inference latency using FP16 and optimized base images.
 *   **Production Ready:** Full support for health monitoring, RTF metrics, and horizontal scaling.
 *   **Low-Resource Focus:** Specialized support for Twi ASR, bridging the gap for under-represented languages.
 
 ---
-*Created with ❤️ by your portfolio's new star.*
+*Created with ❤️
