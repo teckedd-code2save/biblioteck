@@ -3,6 +3,10 @@
 
 Welcome to the documentation for a production-ready AI infrastructure project. This series documents the journey from a raw Whisper model to a fully containerized, agent-orchestrated transcription ecosystem.
 
+> [!TIP]
+> **Source Code:** You can find the implementation of our high-performance Twi ASR inference server in its dedicated repository:
+> [🔗 custom-twi-asr-inferencer](https://github.com/teckedd-code2save/custom-twi-asr-inferencer.git)
+
 ## 🛠 Tech Stack
 *   **AI Engine:** OpenAI Whisper (Small) fine-tuned for Twi (Serlabs).
 *   **Inference Orchestration:** BentoML, PyTorch, Librosa.
